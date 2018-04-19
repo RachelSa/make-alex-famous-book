@@ -1,8 +1,8 @@
 # make-alex-famous-book
-A collaborative novel-writing project, featuring Alex's already-famous kid-living-on-a-bus premise.
+A collaborative novel-writing project, featuring Alex's already-famous, kid-living-on-a-bus premise.
 
 ## wat
-Write a novel--together--using that goldmine young adult novel premise dreamed up by first-place modeloing cross country runner && elite programmer, Alex, while on a bus trip.  
+Write a novel together using that goldmine young adult novel premise dreamed up by first-place modeloing cross country runner && elite programmer, Alex, while on a bus trip.  
 
 ## why
  - Synergy
