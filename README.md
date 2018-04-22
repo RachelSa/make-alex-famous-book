@@ -3,9 +3,9 @@ A collaborative novel-writing project, featuring Alex's already-famous, kid-livi
 
 <p align="center">
   <img src="megabus.jpg"/>
+ <sup>Above is a real, unedited photograph of a computer screen displaying the cannon. Credit: Alex</sup>
 </p>
 
-Above is a real, unedited photograph of a computer screen displaying the cannon. Credit: Alex
 
 ## wot
 Write a novel together using that goldmine young adult novel premise dreamed up by first-place modeloing cross country runner && elite programmer, Alex, while on a bus trip. 
