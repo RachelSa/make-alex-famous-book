@@ -2,6 +2,7 @@
 A collaborative novel-writing project, featuring Alex's already-famous, kid-living-on-a-bus premise.
 
 ![megabus.jpg](megabus.jpg)
+
 Above is a real, unedited photograph of a computer screen displaying the cannon. Credit: Alex
 
 ## wot
