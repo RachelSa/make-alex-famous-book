@@ -1,7 +1,9 @@
 # make-alex-famous-book
 A collaborative novel-writing project, featuring Alex's already-famous, kid-living-on-a-bus premise.
 
-<div style="text-align:center"><img src="megabus.jpg"/></div>
+<p align="center">
+  <img src="megabus.jpg"/>
+</p>
 
 Above is a real, unedited photograph of a computer screen displaying the cannon. Credit: Alex
 
