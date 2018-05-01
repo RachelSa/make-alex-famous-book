@@ -16,7 +16,7 @@ It was why, at age eleven, he hugged his parents goodbye; patted his dog KatzyKa
 
  2. Assuming false identities. 
  
-Luckily, Dicky had developed a substaintail amount of facial hair by the end of the summer before fifth grade. It's    something that his father had been proud of, teaching Dicky to shave at the age of ten. It was the same age Dicky's step brother Alex had learned to shave, as well as Dicky's father, grandfather, and great-grandfather. 
+Luckily, Dicky had developed a substantial amount of facial hair by the end of the summer before fifth grade. It's    something that his father had been proud of, teaching Dicky to shave at the age of ten. It was the same age Dicky's step brother Alex had learned to shave, as well as Dicky's father, grandfather, and great-grandfather. 
   
 Even in fifth grade, Dicky was sometimes mistaken for an adult, which is how he first got interested in false identities.  Sometimes on weekends, Dicky would put on a polo shirt and the pants his mom had bought him for his grandmother's funeral,  and wander around a department store, waiting for customers to approach him with questions. He would pretend to be         unfamiliar with the product a customer was describing and ask for them to go into great detail about what they were looking  for. After three minutes exactly, he would pretend to finally understand and guide the customer to the appropriate section.
   
